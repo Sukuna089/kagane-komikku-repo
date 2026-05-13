@@ -7,6 +7,6 @@
 3. Enable GitHub Pages
 4. Use:
 
-https://YOUR_USERNAME.github.io/kagane-komikku-repo/index.min.json
+https://Sukuna089.github.io/kagane-komikku-repo/index.min.json
 
 inside Komikku.
